@@ -41,8 +41,6 @@ public class loginUserFrame extends javax.swing.JFrame {
 
         jLabel2.setText("Password");
 
-        jPasswordField1.setText("jPasswordField1");
-
         jButton1.setText("Daftar");
 
         jButton2.setText("Masuk");
